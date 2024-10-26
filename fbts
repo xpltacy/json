@@ -1,0 +1,33 @@
+{
+  "1__RandintTaskManager": "C:\Users\WindowsUserNameHere\AppData\Local\Roblox\Roblox.exe", 
+  "2__RandintTaskManager": "C:\Users\MacUserNameHere\AppData\Local\Roblox\Roblox.exe", 
+
+  "DFIntTaskSchedulerTargetFps": "240",
+    "FStringDebugShowFlagState": "DFIntTaskSchedulerTargetFps, ChannelName",
+
+  "DFIntS2PhysicsSenderRate": "13",
+    "FStringDebugShowFlagState": "DFIntS2PhysicsSenderRate, ChannelName",  
+
+  "FIntPGSAngularDampingPermilPersecond": "0",
+    "FStringDebugShowFlagState": "FIntPGSAngularDampingPermilPersecond, ChannelName",
+
+  "DFIntDebugSimPrimalWarmstartVelocity": "500",
+  "DFFlagPhysicsSkipNonRealTimeHumanoidForceCalc2": "False",
+    "FStringDebugShowFlagState": "DFFlagPhysicsSkipNonRealTimeHumanoidForceCalc2, ChannelName",
+
+    "__comment": "configure settings to your liking",
+    "list": {
+      "__1": {"DFIntTaskSchedulerTargetFps": "240"},
+      "__2": {"DFIntS2PhysicsSenderRate": 13},
+      "__4": {"FIntPGSAngularDampingPermilPersecond": "0"},
+      "__5": {"DFIntDebugSimPrimalWarmstartVelocity": 500},
+      "__6": {"DFFlagPhysicsSkipNonRealTimeHumanoidForceCalc2": "False"}
+    },
+
+    "FStringDebugShowFlagState": "list.__1, ChannelName",
+    "FStringDebugShowFlagState": "list.__2, ChannelName",
+    "FStringDebugShowFlagState": "list.__3, ChannelName",
+    "FStringDebugShowFlagState": "list.__4, ChannelName",
+    "FStringDebugShowFlagState": "list.__5, ChannelName",
+    "FStringDebugShowFlagState": "list.__6, ChannelName",
+}
